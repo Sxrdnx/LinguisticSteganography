@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="io.arrow-kt:arrow-core:0.8.1" type="repository">
+    <properties maven-id="io.arrow-kt:arrow-core:0.8.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/arrow-kt/arrow-core/0.8.1/arrow-core-0.8.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.3.0/kotlin-stdlib-jdk7-1.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.3.0/kotlin-stdlib-1.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-common/1.3.0/kotlin-stdlib-common-1.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/annotations/13.0/annotations-13.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/arrow-kt/arrow-annotations/0.8.1/arrow-annotations-0.8.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/kindedj/kindedj/1.1.0/kindedj-1.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
